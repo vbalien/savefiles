@@ -1,0 +1,633 @@
+【パソコン環境の詳細データ】
+不具合が発生した際、このテキストファイルも一緒にサポートメールへ付加して下さい。
+
+
+------ システム情報 ------
+Game           : ハピメア
+Run Path       : C:\ハピメア\
+Save Path      : C:\Users\vbali\Documents\Purplesoftware\ハピメア\
+System Version : cmvs32[ver.3.02]
+Script Version : ps3[ver.1.00]
+
+
+------ オペレーティングシステム情報 ------
+Windows 8 Professional(x64)
+
+BUILD:6.2.9200
+DirectX:9.0c(August 2009)
+Administrator:NO
+
+
+------ ＣＰＵ情報 ------
+Intel(R) Core(TM) i7-8565U CPU @ 1.80GHz
+GenuineIntel[type(0)/family(6)/model(14)/stepping(11)]
+clock:1992MHz（実測値）
+mmx:1
+PerformanceTimer:1
+COUNT:8/8[00FFH/00FFH]
+
+
+------ メモリ情報 ------
+TotalPhys      : 16163.91MByte
+AvailPhys      : 11656.21MByte
+TotalVirtual   :     1.99GByte
+AvailVirtual   :     1.81GByte
+
+
+------ ドライブ情報 ------
+C: 固定メディア[][](  70.02G/ 264.51G)
+
+
+------ 起動時のデスクトップ情報 ------
+NO             : 0
+Width          : 1920
+Height         : 1080
+RefreshRate    : 60
+Format         : X8R8G8B8
+Map            : [+0,+0,+1920,+1080]
+AspectRatio    : 16:9
+
+
+------ 実行デバイスの情報 ------
+GRAPHIC        : No.0[Intel(R) UHD Graphics 620]
+SOUND          : No.0[? ??? ????]
+
+
+------ グラフィックアダプタの情報 ------
+NO             : 0
+Description    : Intel(R) UHD Graphics 620
+Driver         : igdumdim32.dll
+DeviceName     : \\.\DISPLAY1
+Product        : 25
+Version        : 20
+SubVersion     : 100
+Build          : 6581
+VendorId       : 00008086
+DeviceId       : 00003EA0
+SubSysId       : 228617AA
+Revision       : 00000000
+WHQLLevel      : 0
+
+
+------ グラフィックデバイスの情報 ------
+NO                                 : 0
+DeviceType                         : HAL
+[Caps]                             : 00020000
+  READ_SCANLINE                    : 1
+[Caps2]                            : E0020000
+  CANAUTOGENMIPMAP                 : 1
+  CANCALIBRATEGAMMA                : 0
+  CANMANAGERESOURCE                : 0
+  DYNAMICTEXTURES                  : 1
+  FULLSCREENGAMMA                  : 1
+[Caps3]                            : 00000320
+  ALPHA_FULLSCREEN_FLIP_OR_DISCARD : 1
+  COPY_TO_VIDMEM                   : 1
+  COPY_TO_SYSTEMMEM                : 1
+  LINEAR_TO_SRGB_PRESENTATION      : 0
+[PresentationIntervals]            : 8000000F
+  IMMEDIATE                        : 1
+  ONE                              : 1
+  TWO                              : 1
+  THREE                            : 1
+  FOUR                             : 1
+[CursorCaps]                       : 00000001
+  COLOR                            : 1
+  LOWRES                           : 0
+[DevCaps]                          : 0019AE50
+  CANBLTSYSTONONLOCAL              : 0
+  CANRENDERAFTERFLIP               : 1
+  DRAWPRIMITIVES2                  : 1
+  DRAWPRIMITIVES2EX                : 1
+  DRAWPRIMTLVERTEX                 : 1
+  EXECUTESYSTEMMEMORY              : 1
+  EXECUTEVIDEOMEMORY               : 0
+  HWRASTERIZATION                  : 1
+  HWTRANSFORMANDLIGHT              : 1
+  NPATCHES                         : 0
+  PUREDEVICE                       : 1
+  QUINTICRTPATCHES                 : 0
+  RTPATCHES                        : 0
+  RTPATCHHANDLEZERO                : 0
+  SEPARATETEXTUREMEMORIES          : 0
+  TEXTURENONLOCALVIDMEM            : 0
+  TEXTURESYSTEMMEMORY              : 0
+  TEXTUREVIDEOMEMORY               : 1
+  TLVERTEXSYSTEMMEMORY             : 1
+  TLVERTEXVIDEOMEMORY              : 0
+[PrimitiveMiscCaps]                : 002FCCF2
+  MASKZ                            : 1
+  CULLNONE                         : 1
+  CULLCW                           : 1
+  CULLCCW                          : 1
+  COLORWRITEENABLE                 : 1
+  CLIPPLANESCALEDPOINTS            : 0
+  CLIPTLVERTS                      : 0
+  CLIPTLVERTS                      : 0
+  TSSARGTEMP                       : 1
+  BLENDOP                          : 1
+  NULLREFERENCE                    : 0
+  INDEPENDENTWRITEMASKS            : 1
+  PERSTAGECONSTANT                 : 1
+  FOGANDSPECULARALPHA              : 1
+  SEPARATEALPHABLEND               : 1
+  MRTINDEPENDENTBITDEPTHS          : 1
+  MRTPOSTPIXELSHADERBLENDING       : 1
+  FOGVERTEXCLAMPED                 : 0
+[RasterCaps]                       : 0F736191
+  ANISOTROPY                       : 1
+  COLORPERSPECTIVE                 : 1
+  DITHER                           : 1
+  DEPTHBIAS                        : 1
+  FOGRANGE                         : 1
+  FOGTABLE                         : 1
+  FOGVERTEX                        : 1
+  MIPMAPLODBIAS                    : 1
+  MULTISAMPLE_TOGGLE               : 1
+  SCISSORTEST                      : 1
+  SLOPESCALEDEPTHBIAS              : 1
+  WBUFFER                          : 0
+  WFOG                             : 1
+  ZBUFFERLESSHSR                   : 0
+  ZFOG                             : 1
+  ZTEST                            : 1
+[ZCmpCaps]                         : 000000FF
+  ALWAYS                           : 1
+  EQUAL                            : 1
+  GREATER                          : 1
+  GREATEREQUAL                     : 1
+  LESS                             : 1
+  LESSEQUAL                        : 1
+  NEVER                            : 1
+  NOTEQUAL                         : 1
+[SrcBlendCaps]                     : 00003FFF
+  BLENDFACTOR                      : 1
+  BOTHINVSRCALPHA                  : 1
+  BOTHSRCALPHA                     : 1
+  DESTALPHA                        : 1
+  DESTCOLOR                        : 1
+  INVDESTALPHA                     : 1
+  INVDESTCOLOR                     : 1
+  INVSRCALPHA                      : 1
+  INVSRCCOLOR                      : 1
+  ONE                              : 1
+  SRCALPHA                         : 1
+  SRCALPHASAT                      : 1
+  SRCCOLOR                         : 1
+  ZERO                             : 1
+[DestBlendCaps]                    : 000027FF
+  BLENDFACTOR                      : 1
+  BOTHINVSRCALPHA                  : 0
+  BOTHSRCALPHA                     : 0
+  DESTALPHA                        : 1
+  DESTCOLOR                        : 1
+  INVDESTALPHA                     : 1
+  INVDESTCOLOR                     : 1
+  INVSRCALPHA                      : 1
+  INVSRCCOLOR                      : 1
+  ONE                              : 1
+  SRCALPHA                         : 1
+  SRCALPHASAT                      : 1
+  SRCCOLOR                         : 1
+  ZERO                             : 1
+[AlphaCmpCaps]                     : 000000FF
+  ALWAYS                           : 1
+  EQUAL                            : 1
+  GREATER                          : 1
+  GREATEREQUAL                     : 1
+  LESS                             : 1
+  LESSEQUAL                        : 1
+  NEVER                            : 1
+  NOTEQUAL                         : 1
+[ShadeCaps]                        : 00084208
+  ALPHAGOURAUDBLEND                : 1
+  COLORGOURAUDRGB                  : 1
+  FOGGOURAUD                       : 1
+  SPECULARGOURAUDRGB               : 1
+[TextureCaps]                      : 0021EC45
+  ALPHA                            : 1
+  ALPHAPALETTE                     : 0
+  CUBEMAP                          : 1
+  CUBEMAP_POW2                     : 0
+  MIPCUBEMAP                       : 1
+  MIPMAP                           : 1
+  MIPVOLUMEMAP                     : 1
+  NONPOW2CONDITIONAL               : 0
+  NOPROJECTEDBUMPENV               : 1
+  PERSPECTIVE                      : 1
+  POW2                             : 0
+  PROJECTED                        : 1
+  SQUAREONLY                       : 0
+  TEXREPEATNOTSCALEDBYSIZE         : 1
+  VOLUMEMAP                        : 1
+  VOLUMEMAP_POW2                   : 0
+[TextureFilterCaps]                : 07030700
+  MAGFPOINT                        : 1
+  MAGFLINEAR                       : 1
+  MAGFANISOTROPIC                  : 1
+  MAGFPYRAMIDALQUAD                : 0
+  MAGFGAUSSIANQUAD                 : 0
+  MINFPOINT                        : 1
+  MINFLINEAR                       : 1
+  MINFANISOTROPIC                  : 1
+  MINFPYRAMIDALQUAD                : 0
+  MINFGAUSSIANQUAD                 : 0
+  MIPFPOINT                        : 1
+  MIPFLINEAR                       : 1
+[CubeTextureFilterCaps]            : 07030700
+  MAGFPOINT                        : 1
+  MAGFLINEAR                       : 1
+  MAGFANISOTROPIC                  : 1
+  MAGFPYRAMIDALQUAD                : 0
+  MAGFGAUSSIANQUAD                 : 0
+  MINFPOINT                        : 1
+  MINFLINEAR                       : 1
+  MINFANISOTROPIC                  : 1
+  MINFPYRAMIDALQUAD                : 0
+  MINFGAUSSIANQUAD                 : 0
+  MIPFPOINT                        : 1
+  MIPFLINEAR                       : 1
+[VolumeTextureFilterCaps]          : 07030700
+  MAGFPOINT                        : 1
+  MAGFLINEAR                       : 1
+  MAGFANISOTROPIC                  : 1
+  MAGFPYRAMIDALQUAD                : 0
+  MAGFGAUSSIANQUAD                 : 0
+  MINFPOINT                        : 1
+  MINFLINEAR                       : 1
+  MINFANISOTROPIC                  : 1
+  MINFPYRAMIDALQUAD                : 0
+  MINFGAUSSIANQUAD                 : 0
+  MIPFPOINT                        : 1
+  MIPFLINEAR                       : 1
+[TextureAddressCaps]               : 0000003F
+  BORDER                           : 1
+  CLAMP                            : 1
+  INDEPENDENTUV                    : 1
+  MIRROR                           : 1
+  MIRRORONCE                       : 1
+  WRAP                             : 1
+[VolumeTextureAddressCaps]         : 0000003F
+  BORDER                           : 1
+  CLAMP                            : 1
+  INDEPENDENTUV                    : 1
+  MIRROR                           : 1
+  MIRRORONCE                       : 1
+  WRAP                             : 1
+[LineCaps]                         : 0000001F
+  ALPHACMP                         : 1
+  ANTIALIAS                        : 0
+  BLEND                            : 1
+  FOG                              : 1
+  TEXTURE                          : 1
+  ZTEST                            : 1
+MaxTextureWidth                    : 8192
+MaxTextureHeight                   : 8192
+MaxVolumeExtent                    : 2048
+MaxTextureRepeat                   : 8192
+MaxTextureAspectRatio              : 8192
+MaxAnisotropy                      : 16
+MaxVertexW                         : +10000000000.000000
+GuardBandLeft                      : -32768.000000
+GuardBandTop                       : -32768.000000
+GuardBandRight                     : +32768.000000
+GuardBandBottom                    : +32768.000000
+ExtentsAdjust                      : +0.000000
+[StencilCaps]                      : 000001FF
+  KEEP                             : 1
+  ZERO                             : 1
+  REPLACE                          : 1
+  INCRSAT                          : 1
+  DECRSAT                          : 1
+  INVERT                           : 1
+  INCR                             : 1
+  DECR                             : 1
+  TWOSIDED                         : 1
+[FVFCaps]                          : 00180008
+  DONOTSTRIPELEMENTS               : 1
+  PSIZE                            : 1
+  TEXCOORDCOUNTMASK                : 1
+[TextureOpCaps]                    : 03FFFFFF
+  ADD                              : 1
+  ADDSIGNED                        : 1
+  ADDSIGNED2X                      : 1
+  ADDSMOOTH                        : 1
+  BLENDCURRENTALPHA                : 1
+  BLENDDIFFUSEALPHA                : 1
+  BLENDFACTORALPHA                 : 1
+  BLENDTEXTUREALPHA                : 1
+  BLENDTEXTUREALPHAPM              : 1
+  BUMPENVMAP                       : 1
+  BUMPENVMAPLUMINANCE              : 1
+  DISABLE                          : 1
+  DOTPRODUCT3                      : 1
+  LERP                             : 1
+  MODULATE                         : 1
+  MODULATE2X                       : 1
+  MODULATE4X                       : 1
+  MODULATEALPHA_ADDCOLOR           : 1
+  MODULATECOLOR_ADDALPHA           : 1
+  MODULATEINVALPHA_ADDCOLOR        : 1
+  MODULATEINVCOLOR_ADDALPHA        : 1
+  MULTIPLYADD                      : 1
+  PREMODULATE                      : 1
+  SELECTARG1                       : 1
+  SELECTARG2                       : 1
+  SUBTRACT                         : 1
+MaxTextureBlendStages              : 8
+MaxSimultaneousTextures            : 8
+[VertexProcessingCaps]             : 0000017B
+  DIRECTIONALLIGHTS                : 1
+  LOCALVIEWER                      : 1
+  MATERIALSOURCE7                  : 1
+  NO_TEXGEN_NONLOCALVIEWER         : 0
+  POSITIONALLIGHTS                 : 1
+  TEXGEN                           : 1
+  TEXGEN_SPHEREMAP                 : 1
+  TWEENING                         : 1
+MaxActiveLights                    : 8
+MaxUserClipPlanes                  : 6
+MaxVertexBlendMatrices             : 4
+MaxVertexBlendMatrixIndex          : 0
+MaxPointSize                       : +256.000000
+MaxPrimitiveCount                  : 8388607
+MaxVertexIndex                     : 16777215
+MaxStreams                         : 16
+MaxStreamStride                    : 255
+VertexShaderVersion                : FFFE0300
+MaxVertexShaderConst               : 256
+PixelShaderVersion                 : FFFF0300
+PixelShader1xMaxValue              : +340282346638528860000000000000000000000.000000
+[DevCaps2]                         : 00000051
+  ADAPTIVETESSRTPATCH              : 0
+  ADAPTIVETESSNPATCH               : 0
+  CAN_STRETCHRECT_FROM_TEXTURES    : 1
+  DMAPNPATCH                       : 0
+  PRESAMPLEDDMAPNPATCH             : 0
+  STREAMOFFSET                     : 1
+  VERTEXELEMENTSCANSHARESTREAMOFFSET : 1
+MaxNpatchTesselationLevel          : +0.000000
+MasterAdapterOrdinal               : 0
+AdapterOrdinalInGroup              : 0
+NumberOfAdaptersInGroup            : 1
+[DeclTypes]                        : 0000037F
+  UBYTE4                           : 1
+  UBYTE4N                          : 1
+  SHORT2N                          : 1
+  SHORT2N                          : 1
+  USHORT2N                         : 1
+  USHORT4N                         : 1
+  UDEC3                            : 1
+  DEC3N                            : 0
+  FLOAT16_2                        : 1
+  FLOAT16_4                        : 1
+NumSimultaneousRTs                 : 4
+[StretchRectFilterCaps]            : 03000300
+  MINFPOINT                        : 1
+  MAGFPOINT                        : 1
+  MINFLINEAR                       : 1
+  MAGFLINEAR                       : 1
+[VS20Caps]                         : 00000001
+[PS20Caps]                         : 0000001F
+[VertexTextureFilterCaps]          : 03030300
+  MAGFPOINT                        : 1
+  MAGFLINEAR                       : 1
+  MAGFANISOTROPIC                  : 0
+  MAGFPYRAMIDALQUAD                : 0
+  MAGFGAUSSIANQUAD                 : 0
+  MINFPOINT                        : 1
+  MINFLINEAR                       : 1
+  MINFANISOTROPIC                  : 0
+  MINFPYRAMIDALQUAD                : 0
+  MINFGAUSSIANQUAD                 : 0
+  MIPFPOINT                        : 1
+  MIPFLINEAR                       : 1
+MaxVShaderInstructionsExecuted     : 1
+MaxPShaderInstructionsExecuted     : 1
+MaxVertexShader30InstructionSlots  : 32768
+MaxPixelShader30InstructionSlots   : 32768
+[ShaderVersion]
+  VertexShaderVersion              : 3.0
+  PixelShaderVersion               : 3.0
+[CreateTextureFormat]
+  RenderTargetWindowTrueColor      : 1
+  RenderTargetWindowHighColor      : 1
+  RenderTargetFullScreenTrueColor  : 1
+  RenderTargetFullScreenHighColor  : 1
+  AlphaTextueWindowColor           : 1
+  AlphaTextueFullScreenTrueColor   : 1
+  AlphaTextueFullScreenHighColor   : 1
+
+
+------ サウンドアダプタの情報 ------
+NO                               : 0
+Description                      : ? ??? ????
+Module                           : 
+[Caps]
+  [Flags]                        : 00000F1F
+    CERTIFIED                    : 0
+    CONTINUOUSRATE               : 1
+    EMULDRIVER                   : 0
+    PRIMARY16BIT                 : 1
+    PRIMARY8BIT                  : 1
+    PRIMARYMONO                  : 1
+    PRIMARYSTEREO                : 1
+    SECONDARY16BIT               : 1
+    SECONDARY8BIT                : 1
+    SECONDARYMONO                : 1
+    SECONDARYSTEREO              : 1
+  [MinSecondarySampleRate]       : 100
+  [MaxSecondarySampleRate]       : 200000
+  [PrimaryBuffers]               : 1
+  [MaxHwMixingAllBuffers]        : 1
+  [MaxHwMixingStaticBuffers]     : 1
+  [MaxHwMixingStreamingBuffers]  : 1
+  [FreeHwMixingAllBuffers]       : 0
+  [FreeHwMixingStaticBuffers]    : 0
+  [FreeHwMixingStreamingBuffers] : 0
+  [MaxHw3DAllBuffers]            : 0
+  [MaxHw3DStaticBuffers]         : 0
+  [MaxHw3DStreamingBuffers]      : 0
+  [FreeHw3DAllBuffers]           : 0
+  [FreeHw3DStaticBuffers]        : 0
+  [FreeHw3DStreamingBuffers]     : 0
+  [TotalHwMemBytes]              : 0
+  [FreeHwMemBytes]               : 0
+  [MaxContigFreeHwMemBytes]      : 0
+  [UnlockTransferRateHwBuffers]  : 0
+  [PlayCpuOverheadSwBuffers]     : 0
+
+NO                               : 1
+Description                      : ???(Realtek(R) Audio)
+Module                           : {0.0.0.00000000}.{6eda37fe-2624-491d-96cf-cb202aa7e9a6}
+[Caps]
+  [Flags]                        : 00000F1F
+    CERTIFIED                    : 0
+    CONTINUOUSRATE               : 1
+    EMULDRIVER                   : 0
+    PRIMARY16BIT                 : 1
+    PRIMARY8BIT                  : 1
+    PRIMARYMONO                  : 1
+    PRIMARYSTEREO                : 1
+    SECONDARY16BIT               : 1
+    SECONDARY8BIT                : 1
+    SECONDARYMONO                : 1
+    SECONDARYSTEREO              : 1
+  [MinSecondarySampleRate]       : 100
+  [MaxSecondarySampleRate]       : 200000
+  [PrimaryBuffers]               : 1
+  [MaxHwMixingAllBuffers]        : 1
+  [MaxHwMixingStaticBuffers]     : 1
+  [MaxHwMixingStreamingBuffers]  : 1
+  [FreeHwMixingAllBuffers]       : 0
+  [FreeHwMixingStaticBuffers]    : 0
+  [FreeHwMixingStreamingBuffers] : 0
+  [MaxHw3DAllBuffers]            : 0
+  [MaxHw3DStaticBuffers]         : 0
+  [MaxHw3DStreamingBuffers]      : 0
+  [FreeHw3DAllBuffers]           : 0
+  [FreeHw3DStaticBuffers]        : 0
+  [FreeHw3DStreamingBuffers]     : 0
+  [TotalHwMemBytes]              : 0
+  [FreeHwMemBytes]               : 0
+  [MaxContigFreeHwMemBytes]      : 0
+  [UnlockTransferRateHwBuffers]  : 0
+  [PlayCpuOverheadSwBuffers]     : 0
+
+
+------ ディスプレイモードの情報 ------
+NO : 0
+320 x 200 (48) [X8R8G8B8]
+320 x 200 (60) [X8R8G8B8]
+320 x 240 (48) [X8R8G8B8]
+320 x 240 (60) [X8R8G8B8]
+400 x 300 (48) [X8R8G8B8]
+400 x 300 (60) [X8R8G8B8]
+512 x 384 (48) [X8R8G8B8]
+512 x 384 (60) [X8R8G8B8]
+640 x 400 (48) [X8R8G8B8]
+640 x 400 (60) [X8R8G8B8]
+640 x 480 (48) [X8R8G8B8]
+640 x 480 (60) [X8R8G8B8]
+800 x 600 (48) [X8R8G8B8]
+800 x 600 (60) [X8R8G8B8]
+1024 x 768 (48) [X8R8G8B8]
+1024 x 768 (60) [X8R8G8B8]
+1152 x 864 (48) [X8R8G8B8]
+1152 x 864 (60) [X8R8G8B8]
+1280 x 600 (48) [X8R8G8B8]
+1280 x 600 (60) [X8R8G8B8]
+1280 x 720 (48) [X8R8G8B8]
+1280 x 720 (60) [X8R8G8B8]
+1280 x 768 (48) [X8R8G8B8]
+1280 x 768 (60) [X8R8G8B8]
+1280 x 800 (48) [X8R8G8B8]
+1280 x 800 (60) [X8R8G8B8]
+1280 x 960 (48) [X8R8G8B8]
+1280 x 960 (60) [X8R8G8B8]
+1280 x 1024 (48) [X8R8G8B8]
+1280 x 1024 (60) [X8R8G8B8]
+1360 x 768 (48) [X8R8G8B8]
+1360 x 768 (60) [X8R8G8B8]
+1366 x 768 (48) [X8R8G8B8]
+1366 x 768 (60) [X8R8G8B8]
+1400 x 1050 (48) [X8R8G8B8]
+1400 x 1050 (60) [X8R8G8B8]
+1440 x 900 (48) [X8R8G8B8]
+1440 x 900 (60) [X8R8G8B8]
+1600 x 900 (48) [X8R8G8B8]
+1600 x 900 (60) [X8R8G8B8]
+1680 x 1050 (48) [X8R8G8B8]
+1680 x 1050 (60) [X8R8G8B8]
+1920 x 1080 (48) [X8R8G8B8]
+1920 x 1080 (60) [X8R8G8B8]
+320 x 200 (48) [A2R10G10B10]
+320 x 200 (60) [A2R10G10B10]
+320 x 240 (48) [A2R10G10B10]
+320 x 240 (60) [A2R10G10B10]
+400 x 300 (48) [A2R10G10B10]
+400 x 300 (60) [A2R10G10B10]
+512 x 384 (48) [A2R10G10B10]
+512 x 384 (60) [A2R10G10B10]
+640 x 400 (48) [A2R10G10B10]
+640 x 400 (60) [A2R10G10B10]
+640 x 480 (48) [A2R10G10B10]
+640 x 480 (60) [A2R10G10B10]
+800 x 600 (48) [A2R10G10B10]
+800 x 600 (60) [A2R10G10B10]
+1024 x 768 (48) [A2R10G10B10]
+1024 x 768 (60) [A2R10G10B10]
+1152 x 864 (48) [A2R10G10B10]
+1152 x 864 (60) [A2R10G10B10]
+1280 x 600 (48) [A2R10G10B10]
+1280 x 600 (60) [A2R10G10B10]
+1280 x 720 (48) [A2R10G10B10]
+1280 x 720 (60) [A2R10G10B10]
+1280 x 768 (48) [A2R10G10B10]
+1280 x 768 (60) [A2R10G10B10]
+1280 x 800 (48) [A2R10G10B10]
+1280 x 800 (60) [A2R10G10B10]
+1280 x 960 (48) [A2R10G10B10]
+1280 x 960 (60) [A2R10G10B10]
+1280 x 1024 (48) [A2R10G10B10]
+1280 x 1024 (60) [A2R10G10B10]
+1360 x 768 (48) [A2R10G10B10]
+1360 x 768 (60) [A2R10G10B10]
+1366 x 768 (48) [A2R10G10B10]
+1366 x 768 (60) [A2R10G10B10]
+1400 x 1050 (48) [A2R10G10B10]
+1400 x 1050 (60) [A2R10G10B10]
+1440 x 900 (48) [A2R10G10B10]
+1440 x 900 (60) [A2R10G10B10]
+1600 x 900 (48) [A2R10G10B10]
+1600 x 900 (60) [A2R10G10B10]
+1680 x 1050 (48) [A2R10G10B10]
+1680 x 1050 (60) [A2R10G10B10]
+1920 x 1080 (48) [A2R10G10B10]
+1920 x 1080 (60) [A2R10G10B10]
+320 x 200 (48) [R5G6B5]
+320 x 200 (60) [R5G6B5]
+320 x 240 (48) [R5G6B5]
+320 x 240 (60) [R5G6B5]
+400 x 300 (48) [R5G6B5]
+400 x 300 (60) [R5G6B5]
+512 x 384 (48) [R5G6B5]
+512 x 384 (60) [R5G6B5]
+640 x 400 (48) [R5G6B5]
+640 x 400 (60) [R5G6B5]
+640 x 480 (48) [R5G6B5]
+640 x 480 (60) [R5G6B5]
+800 x 600 (48) [R5G6B5]
+800 x 600 (60) [R5G6B5]
+1024 x 768 (48) [R5G6B5]
+1024 x 768 (60) [R5G6B5]
+1152 x 864 (48) [R5G6B5]
+1152 x 864 (60) [R5G6B5]
+1280 x 600 (48) [R5G6B5]
+1280 x 600 (60) [R5G6B5]
+1280 x 720 (48) [R5G6B5]
+1280 x 720 (60) [R5G6B5]
+1280 x 768 (48) [R5G6B5]
+1280 x 768 (60) [R5G6B5]
+1280 x 800 (48) [R5G6B5]
+1280 x 800 (60) [R5G6B5]
+1280 x 960 (48) [R5G6B5]
+1280 x 960 (60) [R5G6B5]
+1280 x 1024 (48) [R5G6B5]
+1280 x 1024 (60) [R5G6B5]
+1360 x 768 (48) [R5G6B5]
+1360 x 768 (60) [R5G6B5]
+1366 x 768 (48) [R5G6B5]
+1366 x 768 (60) [R5G6B5]
+1400 x 1050 (48) [R5G6B5]
+1400 x 1050 (60) [R5G6B5]
+1440 x 900 (48) [R5G6B5]
+1440 x 900 (60) [R5G6B5]
+1600 x 900 (48) [R5G6B5]
+1600 x 900 (60) [R5G6B5]
+1680 x 1050 (48) [R5G6B5]
+1680 x 1050 (60) [R5G6B5]
+1920 x 1080 (48) [R5G6B5]
+1920 x 1080 (60) [R5G6B5]
+
+
